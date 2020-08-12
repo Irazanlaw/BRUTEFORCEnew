@@ -1,0 +1,24 @@
+تخمين باسوردات فيس 
+apt update
+apt upgrade
+pkg install git
+
+pkg install php
+
+pkg install bash
+
+pkg install nano
+
+
+
+git clone https://github.com/FR13ND8/BRUTEFORCEnew
+
+cd BRUTEFORCEnew
+
+ls
+
+chmod +x *
+
+sh new.sh
+
+@Badr.alshalahi.9
